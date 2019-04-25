@@ -75,6 +75,6 @@ $(document).ready(() => {
 
     $('h3').append(image, text);//.text('Studio Lundaï');
 
-    // change la couleur du Copyright -> voir ligne 41
+    // change la couleur du Copyright -> voir ligne 41 du code
 
 });
