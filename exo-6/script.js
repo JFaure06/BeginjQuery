@@ -2,9 +2,13 @@ console.log("exercice 6");
 
 $(document).ready(() => {
 
+//modifier couleur de fond du login en bleu au passage souris
+
 
     $('form button').on('click', function () {
 
+
+        // je déclare des variables qui on une boite avac la valeur de cette boite
         var donneeMail = $('#email').val();
         var donneeMdp = $('#mdp').val();
 
