@@ -9,8 +9,9 @@ $(document).ready(() => {
         $image.viewer({
             inline: true,
             viewed: function () {
-                $image.viewer('zoomTo', 4);
+                $image.viewer('zoomTo', 1);
             }
         });
-    });
-}
+    })
+
+});
