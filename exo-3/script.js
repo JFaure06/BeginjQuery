@@ -25,10 +25,10 @@ $(document).ready(() => {
     });
 */
 
-    //modifie le titre
+    //modification du titre
     $('h1').text('Julien');
 
-    // modifie la tagline
+    // modification txt en tagline
     $('#tagline').html('Représentant <strong>Lundai</strong> avec une Web-série univers <strong>Steampunk</strong>');
 
     // supprime la nav non utile
